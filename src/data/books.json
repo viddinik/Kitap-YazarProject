@@ -1,7 +1,10 @@
 [
     {
         "title": "Kürk Mantolu Madonna",
-        "author": "Sabahattin Ali"
+        "author": "Sabahattin Ali",
+        "description": "Raif Efendi’nin gizemli aşk hikâyesi ve içsel yalnızlığı.",
+        "content": "Almanya’da geçen bir aşk hikayesi üzerinden insan ilişkileri ve hayal kırıklıkları işlenir.",
+        "image": "/images/kurk_mantolu_madonna.jpg"
     },
     {
         "title": "Tutunamayanlar",
@@ -25,11 +28,17 @@
     },
     {
         "title": "Suç ve Ceza",
-        "author": "Fyodor Dostoyevski"
+        "author": "Fyodor Dostoyevski",
+        "description": "Bir adamın işlediği suçun ardından yaşadığı vicdan azabı ve ruhsal çöküş.",
+        "content": "Raskolnikov’un içsel çatışması ve toplumsal düzenle yüzleşmesi anlatılır.",
+        "image": "/images/suc_ve_ceza.jpg"
     },
     {
         "title": "Sefiller",
-        "author": "Victor Hugo"
+        "author": "Victor Hugo",
+        "description": "ailesine ekmek götürebilmek için hırsızlık yapan ve bu yüzden kürek mahkûmiyetine çarptırılan bir adamın hikâyesi",
+        "content" :"Sefiller , 19. yüzyıl Fransa'sında eski bir mahkum olan Jean Valjean karakterine odaklanıyor. Hikaye, Valjean'ın hapisten çıkışı ve ahlaki açıdan katı müfettiş Javert tarafından sürekli takip edilirken bir sanayici olarak yeniden yapılanmasını anlatırken uzun yılları kapsıyor",
+        "image" : "/images/sefiller.jpg"
     },
     {
         "title": "Yabancı",
@@ -81,7 +90,10 @@
     },
     {
         "title": "Hayvan Çiftliği",
-        "author": "George Orwell"
+        "author": "George Orwell",
+        "description" : "SSCB'nin kuruluşundan itibaren meydana gelen önemli olayları kara mizah yoluyla ve mecazi bir dille anlatır",
+        "content" : "Bir çiftlikte yaşayan hayvanlar, kendilerini sömüren insanlara başkaldırıp çiftliğin yönetimini ele geçirir. Amaçları daha eşitlikçi bir topluluk oluşturmaktır. Aralarında en akıllı olan domuzlar, kısa sürede önder bir takım oluşturur; ama devrimi de yine onlar yolundan saptırır.",
+        "image" : "/images/hayvanc.jpg"
     },
     {
         "title": "Don Kişot",

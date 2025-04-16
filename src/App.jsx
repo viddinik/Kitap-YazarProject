@@ -19,7 +19,7 @@ function App() {
 
   return (
     <div className="app-container">
-      <h1 className="title">Kitap Arama Uygulaması</h1>
+      <h1 className="title">Kitabını Bul!</h1>
 
       <div className="search-container">
         <input

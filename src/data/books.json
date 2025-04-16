@@ -8,23 +8,31 @@
     },
     {
         "title": "Tutunamayanlar",
-        "author": "Oğuz Atay"
+        "author": "Oğuz Atay",
+        "description": " Modern bireyin toplumla uyumsuzluğunu ve içsel çatışmalarını anlatan bir başyapıt.",
+        "content": "Selim Işık’ın intiharı sonrası, arkadaşı Turgut’un onun hayatını ve düşüncelerini anlamaya çalışması.",
+        "image": "/images/tutunamayanlar.jpg"
     },
     {
         "title": "Saatleri Ayarlama Enstitüsü",
-        "author": "Ahmet Hamdi Tanpınar"
+        "author": "Ahmet Hamdi Tanpınar",
+        "description": "Modernleşme sürecindeki Türkiye'nin bürokratik yapısını hicveden bir roman.",
+        "content": "Hayri İrdal’ın, Halit Ayarcı ile kurduğu Saatleri Ayarlama Enstitüsü üzerinden toplumun değişimini anlatır.",
+        "image": "/images/saatleri_ayarlama_enstitüsü.jpg"
     },
     {
         "title": "Beyaz Gemi",
-        "author": "Cengiz Aytmatov"
+        "author": "Cengiz Aytmatov",
+        "description": "Bir çocuğun hayal dünyası ve gerçek hayat arasındaki çatışması.",
+        "content": "Dağlarda dedesiyle yaşayan bir çocuğun, beyaz gemiye ulaşma hayali ve yaşadığı hayal kırıklıkları.",
+        "image": "/images/beyaz_gemi.jpg"
     },
     {
         "title": "Simyacı",
-        "author": "Paulo Coelho"
-    },
-    {
-        "title": "1984",
-        "author": "George Orwell"
+        "author": "Paulo Coelho",
+        "description": "Kendi kaderini arayan bir çobanın hikayesi.",
+        "content": "Santiago'nun rüyasında gördüğü hazineyi bulmak için çıktığı yolculuk ve bu süreçte öğrendiği hayat dersleri.",
+        "image": "/images/simyacı.jpg"
     },
     {
         "title": "Suç ve Ceza",
@@ -37,334 +45,28 @@
         "title": "Sefiller",
         "author": "Victor Hugo",
         "description": "ailesine ekmek götürebilmek için hırsızlık yapan ve bu yüzden kürek mahkûmiyetine çarptırılan bir adamın hikâyesi",
-        "content" :"Sefiller , 19. yüzyıl Fransa'sında eski bir mahkum olan Jean Valjean karakterine odaklanıyor. Hikaye, Valjean'ın hapisten çıkışı ve ahlaki açıdan katı müfettiş Javert tarafından sürekli takip edilirken bir sanayici olarak yeniden yapılanmasını anlatırken uzun yılları kapsıyor",
-        "image" : "/images/sefiller.jpg"
-    },
-    {
-        "title": "Yabancı",
-        "author": "Albert Camus"
-    },
-    {
-        "title": "Böyle Buyurdu Zerdüşt",
-        "author": "Friedrich Nietzsche"
-    },
-    {
-        "title": "Aylak Adam",
-        "author": "Yusuf Atılgan"
-    },
-    {
-        "title": "İnce Memed",
-        "author": "Yaşar Kemal"
-    },
-    {
-        "title": "Şeker Portakalı",
-        "author": "José Mauro de Vasconcelos"
-    },
-    {
-        "title": "Yüzüklerin Efendisi",
-        "author": "J.R.R. Tolkien"
-    },
-    {
-        "title": "Harry Potter ve Felsefe Taşı",
-        "author": "J.K. Rowling"
-    },
-    {
-        "title": "Sineklerin Tanrısı",
-        "author": "William Golding"
-    },
-    {
-        "title": "Dönüşüm",
-        "author": "Franz Kafka"
-    },
-    {
-        "title": "Karamazov Kardeşler",
-        "author": "Fyodor Dostoyevski"
-    },
-    {
-        "title": "Martin Eden",
-        "author": "Jack London"
-    },
-    {
-        "title": "Gazap Üzümleri",
-        "author": "John Steinbeck"
+        "content": "Sefiller , 19. yüzyıl Fransa'sında eski bir mahkum olan Jean Valjean karakterine odaklanıyor. Hikaye, Valjean'ın hapisten çıkışı ve ahlaki açıdan katı müfettiş Javert tarafından sürekli takip edilirken bir sanayici olarak yeniden yapılanmasını anlatırken uzun yılları kapsıyor",
+        "image": "/images/sefiller.jpg"
     },
     {
         "title": "Hayvan Çiftliği",
         "author": "George Orwell",
-        "description" : "SSCB'nin kuruluşundan itibaren meydana gelen önemli olayları kara mizah yoluyla ve mecazi bir dille anlatır",
-        "content" : "Bir çiftlikte yaşayan hayvanlar, kendilerini sömüren insanlara başkaldırıp çiftliğin yönetimini ele geçirir. Amaçları daha eşitlikçi bir topluluk oluşturmaktır. Aralarında en akıllı olan domuzlar, kısa sürede önder bir takım oluşturur; ama devrimi de yine onlar yolundan saptırır.",
-        "image" : "/images/hayvanc.jpg"
+        "description": "SSCB'nin kuruluşundan itibaren meydana gelen önemli olayları kara mizah yoluyla ve mecazi bir dille anlatır",
+        "content": "Bir çiftlikte yaşayan hayvanlar, kendilerini sömüren insanlara başkaldırıp çiftliğin yönetimini ele geçirir. Amaçları daha eşitlikçi bir topluluk oluşturmaktır. Aralarında en akıllı olan domuzlar, kısa sürede önder bir takım oluşturur; ama devrimi de yine onlar yolundan saptırır.",
+        "image": "/images/hayvanc.jpg"
     },
     {
-        "title": "Don Kişot",
-        "author": "Miguel de Cervantes"
-    },
-    {
-        "title": "Madame Bovary",
-        "author": "Gustave Flaubert"
-    },
-    {
-        "title": "Ulysses",
-        "author": "James Joyce"
-    },
-    {
-        "title": "Çavdar Tarlasında Çocuklar",
-        "author": "J.D. Salinger"
-    },
-    {
-        "title": "Bülbülü Öldürmek",
-        "author": "Harper Lee"
-    },
-    {
-        "title": "Anna Karenina",
-        "author": "Lev Tolstoy"
-    },
-    {
-        "title": "Savaş ve Barış",
-        "author": "Lev Tolstoy"
-    },
-    {
-        "title": "Yüzbaşının Kızı",
-        "author": "Aleksandr Puşkin"
-    },
-    {
-        "title": "Denemeler",
-        "author": "Michel de Montaigne"
-    },
-    {
-        "title": "Körlük",
-        "author": "José Saramago"
-    },
-    {
-        "title": "Yeraltından Notlar",
-        "author": "Fyodor Dostoyevski"
-    },
-    {
-        "title": "Kırmızı Pazartesi",
-        "author": "Gabriel García Márquez"
-    },
-    {
-        "title": "Yüzyıllık Yalnızlık",
-        "author": "Gabriel García Márquez"
-    },
-    {
-        "title": "Bir İdam Mahkumunun Son Günü",
-        "author": "Victor Hugo"
-    },
-    {
-        "title": "Çılgın Kalabalıktan Uzak",
-        "author": "Thomas Hardy"
-    },
-    {
-        "title": "Babalar ve Oğullar",
-        "author": "Ivan Turgenyev"
-    },
-    {
-        "title": "Kumarbaz",
-        "author": "Fyodor Dostoyevski"
-    },
-    {
-        "title": "Vadideki Zambak",
-        "author": "Honoré de Balzac"
-    },
-    {
-        "title": "İki Şehrin Hikayesi",
-        "author": "Charles Dickens"
-    },
-    {
-        "title": "Oliver Twist",
-        "author": "Charles Dickens"
-    },
-    {
-        "title": "Bülbülün Kanadında",
-        "author": "Ahmet Ümit"
-    },
-    {
-        "title": "Elveda Güzel Vatanım",
-        "author": "Ahmet Ümit"
-    },
-    {
-        "title": "Bab-ı Esrar",
-        "author": "Ahmet Ümit"
-    },
-    {
-        "title": "Aşk",
-        "author": "Elif Şafak"
-    },
-    {
-        "title": "Baba ve Piç",
-        "author": "Elif Şafak"
-    },
-    {
-        "title": "Ustam ve Ben",
-        "author": "Elif Şafak"
-    },
-    {
-        "title": "İskender",
-        "author": "Elif Şafak"
-    },
-    {
-        "title": "Serenad",
-        "author": "Zülfü Livaneli"
+        "title": "Kinyas ve Kayra",
+        "author": "Hakan Günday",
+        "description": "iki Türk gencinin Afrika'da başlayıp Amerika'ya sıçrayan, oradan Türkiye'ye uzanan, şiddet ve cinsellikle yüklü, hayatın kıyısında gezinen hayatlarını anlatan roman",
+        "content": "Türkçe yeraltı edebiyatının ilk örneği sayılan roman, modern hayatın her bireyde şiddetle uyandırdığı basıp gitme arzusunu gerçekleştiren, uyuşturucu satıp adam öldüren, şantaj yapan ve adlarını kendileri seçen iki arkadaş olan Kinyas ile Kayra'nın başından geçenleri anlatır.",
+        "image": "/images/kinyas_ve_kayra.jpg"
     },
     {
         "title": "Kardeşimin Hikayesi",
-        "author": "Zülfü Livaneli"
-    },
-    {
-        "title": "Huzursuzluk",
-        "author": "Zülfü Livaneli"
-    },
-    {
-        "title": "Leyla'nın Evi",
-        "author": "Zülfü Livaneli"
-    },
-    {
-        "title": "Benim Adım Kırmızı",
-        "author": "Orhan Pamuk"
-    },
-    {
-        "title": "Kar",
-        "author": "Orhan Pamuk"
-    },
-    {
-        "title": "Yeni Hayat",
-        "author": "Orhan Pamuk"
-    },
-    {
-        "title": "Masumiyet Müzesi",
-        "author": "Orhan Pamuk"
-    },
-    {
-        "title": "Cevdet Bey ve Oğulları",
-        "author": "Orhan Pamuk"
-    },
-    {
-        "title": "Tütüncü Baba",
-        "author": "Şems-i Tebrizi"
-    },
-    {
-        "title": "Aşk ve Gurur",
-        "author": "Jane Austen"
-    },
-    {
-        "title": "Emma",
-        "author": "Jane Austen"
-    },
-    {
-        "title": "Akıl ve Tutku",
-        "author": "Jane Austen"
-    },
-    {
-        "title": "Dracula",
-        "author": "Bram Stoker"
-    },
-    {
-        "title": "Frankenstein",
-        "author": "Mary Shelley"
-    },
-    {
-        "title": "Mülksüzler",
-        "author": "Ursula K. Le Guin"
-    },
-    {
-        "title": "Karanlığın Sol Eli",
-        "author": "Ursula K. Le Guin"
-    },
-    {
-        "title": "Yerdeniz Büyücüsü",
-        "author": "Ursula K. Le Guin"
-    },
-    {
-        "title": "Neuromancer",
-        "author": "William Gibson"
-    },
-    {
-        "title": "Androidler Elektrikli Koyun Düşler mi?",
-        "author": "Philip K. Dick"
-    },
-    {
-        "title": "Zaman Makinesi",
-        "author": "H.G. Wells"
-    },
-    {
-        "title": "Görülmeyen Adam",
-        "author": "H.G. Wells"
-    },
-    {
-        "title": "Dünya Savaşı Z",
-        "author": "Max Brooks"
-    },
-    {
-        "title": "Metro 2033",
-        "author": "Dmitry Glukhovsky"
-    },
-    {
-        "title": "Otostopçunun Galaksi Rehberi",
-        "author": "Douglas Adams"
-    },
-    {
-        "title": "Katilin Günlüğü",
-        "author": "Ahmet Ümit"
-    },
-    {
-        "title": "Son Ada",
-        "author": "Zülfü Livaneli"
-    },
-    {
-        "title": "İstanbul Hatırası",
-        "author": "Ahmet Ümit"
-    },
-    {
-        "title": "Araf",
-        "author": "Elif Şafak"
-    },
-    {
-        "title": "Kavak Yelleri",
-        "author": "Reşat Nuri Güntekin"
-    },
-    {
-        "title": "Çalıkuşu",
-        "author": "Reşat Nuri Güntekin"
-    },
-    {
-        "title": "Yaprak Dökümü",
-        "author": "Reşat Nuri Güntekin"
-    },
-    {
-        "title": "Araba Sevdası",
-        "author": "Recaizade Mahmut Ekrem"
-    },
-    {
-        "title": "Felatun Bey ile Rakım Efendi",
-        "author": "Ahmet Mithat Efendi"
-    },
-    {
-        "title": "Eylül",
-        "author": "Mehmet Rauf"
-    },
-    {
-        "title": "Mai ve Siyah",
-        "author": "Halit Ziya Uşaklıgil"
-    },
-    {
-        "title": "Aşk-ı Memnu",
-        "author": "Halit Ziya Uşaklıgil"
-    },
-    {
-        "title": "Sergüzeşt",
-        "author": "Samipaşazade Sezai"
-    },
-    {
-        "title": "Zehra",
-        "author": "Nabizade Nazım"
-    },
-    {
-        "title": "Yaban",
-        "author": "Yakup Kadri Karaosmanoğlu"
-    },
-    {
-        "title": "Anayurt Oteli",
-        "author": "Yusuf Atılgan"
+        "author": "Zülfü Livaneli",
+        "description": "Emekli olduktan sonra Karadeniz'in bir sahil kasabasına taşınan Ahmet Arslan, sakin ve sessiz bir hayat sürmektedir. Ahmet, kendisinin de tanıdığı Arzu'nun öldürülmesi ile bir gazeteci kızla tanışır. Ona hayatını ve kardeşinin hayat hikâyesini anlatmaya başlar.",
+        "content": "İstanbul'un Çatalca ilçesinde geçen olayları konu edinen Zülfü Livaneli Kardeşimin Hikayesi, esrarengiz bir cinayet ile başlar. Emekli inşaat mühendisi adam ile genç ve enerjik gazeteci kız arasında geçen Kardeşimin Hikayesi kurgusu, cinayetle birlikte köyde yaşanan olayları ve gizemi anlatır.",
+        "image": "/images/kardeşimin_hikayesi.jpg"
     }
 ]
